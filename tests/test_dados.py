@@ -1,5 +1,4 @@
 import pytest
-#from dados import *
 import random
 from src.dados import lanzar_dado, jugar_turno, determinar_ganador
 
